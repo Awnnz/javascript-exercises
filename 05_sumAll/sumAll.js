@@ -10,7 +10,6 @@ const sumAll = function(num1, num2) {
     
         return sum;
     }
-    console.log('ERROR');
     return 'ERROR'
   };
 
